@@ -33,32 +33,45 @@
 
 ---
 
-## 📅 學習日誌 | Learning Log
+## 📚 主要部分 | Main Sections
 
-進度將在 `/02-Learning-Log/` 中更新。
+### 🧠 [基礎概念 | Fundamentals](./01-Fundamentals/)
+學習 AI 的基本概念和理論
+- [什麼是 AI？](./01-Fundamentals/01-什麼是AI.md)
+- 機器學習基礎
+- 深度學習介紹
+- AI 應用場景
 
-**Latest Update:** 2026-06-02 - 開始我的 AI 學習之旅！
+### 📅 [學習日誌 | Learning Log](./02-Learning-Log/)
+記錄我每天的學習進度和想法
+- [2026-06-02 - 開始我的 AI 學習之旅！](./02-Learning-Log/2026-06-02.md)
 
----
+### 📚 [推薦資源 | Resources](./03-Resources/recommended-courses.md)
+有用的課程、工具和學習材料推薦
+- 免費課程和教程
+- 實踐工具
+- 推薦書籍
+- YouTube 頻道
 
-## 🔗 有用資源 | Useful Resources
+### 💻 [項目 | Projects](./04-Projects/)
+實踐項目和學習練習
+- AI 工具探索
+- 簡單項目練習
 
-查閱 `/03-Resources/recommended-courses.md`
-
----
-
-## 💬 學習心得 | Reflections
-
-我的想法、疑問和突破將在 `/05-Reflections/` 中記錄。
+### 💭 [反思 | Reflections](./05-Reflections/)
+學習心得、疑問和突破
+- [初步想法](./05-Reflections/初步想法.md)
+- 反思日誌
 
 ---
 
 ## 📝 如何使用這個 Repo
 
-1. 瀏覽各個文件夾了解我的學習進度
-2. 查看資源推薦
-3. 跟蹤我的學習日誌
-4. 看看我遇到的挑戰和解決方案
+1. 📖 從 [基礎概念](./01-Fundamentals/) 開始了解 AI
+2. 📚 查看 [推薦資源](./03-Resources/recommended-courses.md) 選擇課程
+3. 📅 跟蹤 [學習日誌](./02-Learning-Log/) 看我的進度
+4. 💡 閱讀 [反思筆記](./05-Reflections/) 看我的想法
+5. 🚀 探索 [項目](./04-Projects/) 看實踐應用
 
 ---
 
@@ -76,11 +89,24 @@
 如果你也想開始 AI 學習之旅，歡迎：
 - ⭐ Star 這個 repository
 - 👀 Follow 我的進度
-- 💬 在 Issues 中分享你的建議或經驗
+- 💬 在 [Issues](https://github.com/kimng852/My-AI-Study-Notes/issues) 中分享你的建議或經驗
+
+---
+
+## 📊 Learning Progress
+
+| 部分 | 狀態 | 進度 |
+|------|------|------|
+| 基礎概念 | 🔄 進行中 | 初級 |
+| 學習日誌 | 📝 記錄中 | 1 天 |
+| 資源整理 | ✅ 完成 | 100% |
+| 項目實踐 | 🎯 計畫中 | 0% |
+| 反思筆記 | 📖 進行中 | 初級 |
 
 ---
 
 **開始日期 | Start Date:** 2026-06-02  
-**目前狀態 | Current Status:** 🌱 初學者 (Beginner)
+**目前狀態 | Current Status:** 🌱 初學者 (Beginner)  
+**Repository:** [kimng852/My-AI-Study-Notes](https://github.com/kimng852/My-AI-Study-Notes)
 
 希望在這個旅程中與大家一起學習！🌟
