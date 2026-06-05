@@ -1,7 +1,7 @@
 # 我的 AI 學習之旅 | My AI Study Notes
 
 🤖 **歡迎來到我的人工智能學習旅程！** 
-Everything in here come from the chatbox on Github, I try to edit here via chatbox and myself
+Everything in here come from the chatbox on Github, I try to edit here via chatbox and by myself
 I'm very confuse, how to do it? And I am not sure what's Github doing?
 
 ## 📚 關於這個 Repository
