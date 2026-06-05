@@ -47,6 +47,10 @@ I'm very confuse, how to do it? And I am not sure what's Github doing?
 ### 📅 [學習日誌 | Learning Log](./02-Learning-Log/)
 記錄我每天的學習進度和想法
 - [2026-06-02 - 開始我的 AI 學習之旅！](./02-Learning-Log/2026-06-02.md)
+- [2026-06-04 - Markdown 和 GitHub 基礎](./02-Learning-Log/2026-06-04.md)
+  - 📚 學習了如何在 Markdown 加入 Emoji
+  - 📚 理解 GitHub 不同位置的名稱和作用
+  - 💡 關鍵收穫：Emoji 讓筆記更生動有趣！🎉
 
 ### 📚 [推薦資源 | Resources](./03-Resources/recommended-courses.md)
 有用的課程、工具和學習材料推薦
@@ -100,7 +104,7 @@ I'm very confuse, how to do it? And I am not sure what's Github doing?
 | 部分 | 狀態 | 進度 |
 |------|------|------|
 | 基礎概念 | 🔄 進行中 | 初級 |
-| 學習日誌 | 📝 記錄中 | 1 天 |
+| 學習日誌 | 📝 記錄中 | 2 天 |
 | 資源整理 | ✅ 完成 | 100% |
 | 項目實踐 | 🎯 計畫中 | 0% |
 | 反思筆記 | 📖 進行中 | 初級 |
@@ -109,6 +113,7 @@ I'm very confuse, how to do it? And I am not sure what's Github doing?
 
 **開始日期 | Start Date:** 2026-06-02  
 **目前狀態 | Current Status:** 🌱 初學者 (Beginner)  
+**最後更新 | Last Updated:** 2026-06-05  
 **Repository:** [kimng852/My-AI-Study-Notes](https://github.com/kimng852/My-AI-Study-Notes)
 
 希望在這個旅程中與大家一起學習！🌟
