@@ -51,6 +51,7 @@ I'm very confuse, how to do it? And I am not sure what's Github doing?
   - 📚 學習了如何在 Markdown 加入 Emoji
   - 📚 理解 GitHub 不同位置的名稱和作用
   - 💡 關鍵收穫：Emoji 讓筆記更生動有趣！🎉
+- [2026-06-05 ](./02-Learning-Log/2026-06-05.md)
 
 ### 📚 [推薦資源 | Resources](./03-Resources/recommended-courses.md)
 有用的課程、工具和學習材料推薦
